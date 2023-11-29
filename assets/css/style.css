@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header*/
+header {
+    background: beige;
+}
+
+/* Main Content */
+main {
+    background-color: lightcoral;
+}
+
+/* Footer */
+footer {
+    background-color: orange;
+}
