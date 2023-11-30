@@ -17,6 +17,11 @@ header {
     margin-bottom: 10px;
 }
 
+/*Nav Bar*/
+#nav {
+    
+}
+
 /* Main Content */
 main {
     flex: 1 0 auto;
