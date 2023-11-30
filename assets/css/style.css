@@ -30,7 +30,7 @@ header {
     float: left;
   }
   
-  li a {
+  ul a {
     display: block;
     color: white;
     text-align: center;
@@ -62,6 +62,10 @@ header {
     width: 100%;
  }
 
+ .process-steps {
+    
+ }
+ 
 /* Footer */
 footer {
     background-color: #e9ceb6;
