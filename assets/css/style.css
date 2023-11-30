@@ -13,7 +13,8 @@ body {
 
 /* Header*/
 header {
-    background: beige;
+    background: #ffffff;
+    margin-bottom: 10px;
 }
 
 /* Main Content */
@@ -22,13 +23,12 @@ main {
 }
 
 #newborn-image {
-    /*background: url(assets/images/pexels-rene-asmussen-2505101.jpg) no-repeat fixed lightblue;*/
-    /*flex: 1 0 auto;*/
+    width: 100%;
 }
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: lightgrey;
     position: fixed;
     bottom: 0;
     left: 0;
