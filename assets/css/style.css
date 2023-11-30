@@ -75,8 +75,23 @@ header {
     font-family: "Ubuntu", sans-serif;
  }
 
- form {
+  .form-lines {
+    margin-bottom: 20px;
+    margin-left: 15px;
+    font-family: "Ubuntu", sans-serif;
+ }
 
+ input {
+  margin-top: 10px;
+ }
+
+ legend {
+  margin-bottom: 25px;
+ }
+
+ #submit-button {
+  background-color: #e9ceb6;
+  padding: 5px;
  }
  
 /* Footer */
