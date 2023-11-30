@@ -28,10 +28,32 @@ main {
 
 /* Footer */
 footer {
-    background-color: lightgrey;
+    background-color: #e9ceb6;
     position: fixed;
     bottom: 0;
     left: 0;
     width: 100vw;
+}
+
+#social-networks {
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style-type: none;
     text-align: center;
+    display: flex;
+}
+
+#contact-us {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Ubuntu";
+    font-weight: 600;
+}
+
+.contact-info {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
 }
