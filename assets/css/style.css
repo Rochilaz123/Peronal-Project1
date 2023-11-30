@@ -16,6 +16,12 @@ header {
     background: white;
     margin-bottom: 10px;
     position: fixed;
+    width: 100%;
+}
+
+#logo {
+  max-height: 10vh;
+  width: auto;
 }
 
 /*Nav Bar*/
@@ -25,6 +31,7 @@ header {
     padding: 0;
     overflow: hidden;
     background-color: #e9ceb6;
+    font-family: "Ubuntu", sans-serif;
   }
   
   li {
@@ -37,6 +44,7 @@ header {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+   
   }
   
   /* Change the link color to #111 (black) on hover */
@@ -64,7 +72,7 @@ header {
 
  #newborn-image {
     width: 100%;
-    margin-top: 100px;
+    margin-top: 17vh;
  }
 
  #about-us-text {
@@ -83,7 +91,7 @@ header {
 /* Our Process Styles*/
  h2 {
     margin-left: 50px; 
-    margin-top: 30px;
+    margin-top: 20vh;
  }
 
  .process-steps {
@@ -94,6 +102,12 @@ header {
  }
 
  /* Form Styles*/
+  form {
+    margin-top: 19vh;
+    margin-left: 3vw;
+    margin-right: 3vw;
+  }
+
   .form-lines {
     margin-bottom: 20px;
     margin-left: 15px;
@@ -120,6 +134,7 @@ footer {
     bottom: 0;
     left: 0;
     width: 100vw;
+    max-height:fit-content;
 }
 
 #social-networks {
