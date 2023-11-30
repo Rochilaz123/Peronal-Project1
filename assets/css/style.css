@@ -22,8 +22,7 @@ main {
 }
 
 #newborn-image {
-    background: url(assets/images/pexels-rene-asmussen-2505101.jpg) no-repeat fixed;
-    background-size: cover;
+    background: url(.images/pexels-rene-asmussen-2505101.jpg) no-repeat fixed;
     flex: 1 0 auto;
 }
 
@@ -33,4 +32,6 @@ footer {
     position: fixed;
     bottom: 0;
     left: 0;
+    width: 100vw;
+    text-align: center;
 }
