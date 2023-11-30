@@ -22,8 +22,8 @@ main {
 }
 
 #newborn-image {
-    background: url(.images/pexels-rene-asmussen-2505101.jpg) no-repeat fixed;
-    flex: 1 0 auto;
+    /*background: url(assets/images/pexels-rene-asmussen-2505101.jpg) no-repeat fixed lightblue;*/
+    /*flex: 1 0 auto;*/
 }
 
 /* Footer */
