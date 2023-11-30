@@ -15,6 +15,7 @@ body {
 header {
     background: white;
     margin-bottom: 10px;
+    position: fixed;
 }
 
 /*Nav Bar*/
@@ -54,6 +55,8 @@ header {
 
 
 /* Main Content */
+
+/* About Us Styles */
  main {
     flex: 1 0 auto;
     background-color: #faf4ee;
@@ -61,8 +64,23 @@ header {
 
  #newborn-image {
     width: 100%;
+    margin-top: 100px;
  }
 
+ #about-us-text {
+  background-color: #f5e9de;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 160px;
+  padding: 20px;
+  border-radius: 10%;
+  border: #e9ceb6 2px solid;
+  font-family: "Ubuntu", sans-serif;
+
+ }
+
+/* Our Process Styles*/
  h2 {
     margin-left: 50px; 
     margin-top: 30px;
@@ -75,6 +93,7 @@ header {
     font-family: "Ubuntu", sans-serif;
  }
 
+ /* Form Styles*/
   .form-lines {
     margin-bottom: 20px;
     margin-left: 15px;
