@@ -204,4 +204,8 @@ footer {
     float: right;
     display: inline-block
   }
-}
+
+  #submission-box {
+    margin-left: 33%;
+    margin-right: 33%;
+  }
