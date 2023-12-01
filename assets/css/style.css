@@ -92,6 +92,7 @@ header {
  h2 {
     margin-left: 50px; 
     margin-top: 20vh;
+    font-family: "Ubuntu", sans-serif;
  }
 
  .process-steps {
@@ -125,6 +126,28 @@ header {
  #submit-button {
   background-color: #e9ceb6;
   padding: 5px;
+ }
+
+ /* Form confirmation page */
+ #form-submission-message {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Ubuntu", sans-serif;
+ }
+
+ #submission-box {
+  background-color: white;
+  color: #d9aa80;
+  margin-top: 30vh;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  border-radius: 10%;
+  border: #e9ceb6 2px solid;
+  font-family: "Ubuntu", sans-serif;
+
  }
  
 /* Footer */
