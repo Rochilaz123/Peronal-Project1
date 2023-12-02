@@ -55,12 +55,11 @@ header {
  nav a:hover {
     background-color: white;
     color: #e9ceb6;
- }*/
+ }
 
  .active {
     color: darkslategray;
  }
-
 
 /* Main Content */
 
@@ -187,7 +186,7 @@ h6 {
     padding-right: 15px;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 960px) {
   /* Responsive CSS */
   #logo {
     max-height: 10vh;
