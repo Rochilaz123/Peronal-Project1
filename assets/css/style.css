@@ -55,11 +55,12 @@ header {
  nav a:hover {
     background-color: white;
     color: #e9ceb6;
- }
+ }*/
 
  .active {
     color: darkslategray;
  }
+
 
 /* Main Content */
 
@@ -120,6 +121,7 @@ header {
 
  legend {
   margin-bottom: 25px;
+  font-family: "Ubuntu", sans-serif;
  }
 
  #submit-button {
@@ -177,8 +179,7 @@ footer {
 }
 
 h6 {
-  font-size: larger;
-}
+  }
 
 .contact-info {
     display: inline-block;
@@ -186,8 +187,7 @@ h6 {
     padding-right: 15px;
 }
 
-@media only screen and (min-width: 960px) {
-  /* Responsive CSS */
+@media only screen and (min-width: 768px) {
   #logo {
     max-height: 10vh;
   }
@@ -215,15 +215,3 @@ h6 {
     margin-left: 33%;
     margin-right: 33%;
   }
-
-@media only screen and (max-width: 450) {
-  #contact-us {
-    padding-top: 4px;
-    padding-bottom: 0;
-  }
-
-  #social-networks{
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-}
