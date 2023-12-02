@@ -73,14 +73,13 @@ No errors were found when passing through the official (Jigsaw) validator
 Unfixed Bugs
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+1. In the GitHub repository, navigate to the Settings tab
+2. From the source section drop-down menu, select the Master Branch
+3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+4. The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
 
 Credits
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
