@@ -177,6 +177,10 @@ footer {
     font-weight: 600;
 }
 
+h6 {
+  font-size: larger;
+}
+
 .contact-info {
     display: inline-block;
     padding-left: 15px;
@@ -184,6 +188,7 @@ footer {
 }
 
 @media only screen and (min-width: 768px) {
+  /* Responsive CSS */
   #logo {
     max-height: 10vh;
   }
