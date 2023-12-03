@@ -2,19 +2,19 @@
 
 Night Owl is a site that informs pregnant mothers about a free service available to them. The site will be targeted toward pregnant mothers with other children at home, who need a babysitter for their other children when they go to the hospital to give birth. Night owl will be useful for mothers to find out about the service, and to sign up.
 
-![Responsive mock-up landing page](assets/images/readme-images/devices-mockup-aboutus.jpg){width=50%}
+![Responsive mock-up landing page](assets/images/readme-images/devices-mockup-aboutus.jpg)
 
-![Responsive mock up Our Process page](assets/images/readme-images/devices-mockup-ourprocess.jpg){width=50%}
+![Responsive mock up Our Process page](assets/images/readme-images/devices-mockup-ourprocess.jpg)
 
-![Responsive mock up Sign Up Page](assets/images/readme-images/devices-mockup-signup.jpg){width=50%}
+![Responsive mock up Sign Up Page](assets/images/readme-images/devices-mockup-signup.jpg)
 
 ## Wireframes
 
-![wireframes for desktop](assets/images/readme-images/wireframes-desktop.jpg){width=50%}
+![wireframes for desktop](assets/images/readme-images/wireframes-desktopm.jpg)
 
-![wireframes for ipad](assets/images/readme-images/wireframes-ipad.jpg){width=50%}
+![wireframes for ipad](assets/images/readme-images/wireframes-ipadm.jpg)
 
-![wireframes for smartphone](assets/images/readme-images/wireframes-smartphone.jpg){width=50%}
+![wireframes for smartphone](assets/images/readme-images/wireframes-smartphonem.jpg)
 
 ## Features
 
