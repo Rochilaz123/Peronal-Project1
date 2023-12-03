@@ -10,11 +10,11 @@ Night Owl is a site that informs pregnant mothers about a free service available
 
 ## Wireframes
 
-![wireframes for desktop](assets/images/readme-images/wireframes-desktopm.jpg)
+![wireframes for desktop](assets/images/readme-images/wireframes-desktop.jpg)
 
-![wireframes for ipad](assets/images/readme-images/wireframes-ipadm.jpg)
+![wireframes for ipad](assets/images/readme-images/wireframes-ipad.jpg)
 
-![wireframes for smartphone](assets/images/readme-images/wireframes-smartphonem.jpg)
+![wireframes for smartphone](assets/images/readme-images/wireframes-smartphone.jpg)
 
 ## Features
 
