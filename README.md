@@ -1,34 +1,46 @@
 # Night Owl
 
+<details open>
+<summary><h2>Wireframes<h2/></summary>
+<br>
+![wireframes for desktop](assets/images/readme-images/wireframes-desktop.jpg)
+![wireframes for ipad](assets/images/readme-images/wireframes-ipad.jpg)
+![wireframes for smartphone](assets/images/readme-images/wireframes-smartphone.jpg)
+</details>
+
 Night Owl is a site that informs pregnant mothers about a free service available to them. The site will be targeted toward pregnant mothers with other children at home, who need a babysitter for their other children when they go to the hospital to give birth. Night owl will be useful for mothers to find out about the service, and to sign up.
 
-![Responsive mock-up](assets/images/readme-images/devices-mockup.png)
+![Responsive mock-up landing page](assets/images/readme-images/devices-mockup-aboutus.jpg)
+
+![Responsive mock up Our Process page](assets/images/readme-images/devices-mockup-ourprocess.png)
+
+![Responsive mock up Sign Up Page](assets/images/readme-images/devices-mockup-signup.png)
 
 ## Features
 
 ### About Us
 
-![image of landing page - About Us](assets/images/readme-images/about-us.png)
+![image of landing page - About Us](assets/images/readme-images/about-us.jpg)
 
 - The landing page includes a photograph with text alongside it explaining what the organisation does and the location this website is applicable to.
 - This introduces the user to Night owl with a magical image that draws them in, alogside an explanation of why this site would be useful to them.
 
 ### Our Process
 
-![image of Our Process page](assets/images/readme-images/our-process.png)
+![image of Our Process page](assets/images/readme-images/our-process.jpg)
 
 - This page explains to the user how to sign up for the service and breaks the process down into simple steps to make it clear and concise and ensures the user understand what they are signing up for. 
 - It also includes a hyperlink to direct the user to the Signup page to help with easy navigation.
 
 ### Sign Up
 
-![image of Sign Up page](assets/images/readme-images/sign-up.png)
+![image of Sign Up page](assets/images/readme-images/sign-up.jpg)
 
 - This page includes a clear form for the user to submit their personal details to sign up for the service.
 
 ### Form Confirmation
 
-![image of Form Confirmation page](assets/images/readme-images/form-confirmation.png)
+![image of Form Confirmation page](assets/images/readme-images/form-confirmation.jpg)
 
 - This page informs the user that they have submitted their details and includes a hyperlink back to the landing page.
 
@@ -36,7 +48,7 @@ Night Owl is a site that informs pregnant mothers about a free service available
 
 ### Navigation Bar
 
-![image of navigation bar](assets/images/readme-images/navigation-bar.png)
+![image of navigation bar](assets/images/readme-images/header.jpg)
 
 - Featured on all three pages as well as the form confirmation page. 
 - The fully responsive navigation bar includes links to the About Us landing page, Our Process page, and Sign Up page and is identical in each page to allow for easy navigation.
