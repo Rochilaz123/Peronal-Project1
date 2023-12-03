@@ -1,21 +1,20 @@
 # Night Owl
 
-<details open>
-<summary><h2>Wireframes<h2/></summary>
-<br>
-![wireframes for desktop](assets/images/readme-images/wireframes-desktop.jpg)
-![wireframes for ipad](assets/images/readme-images/wireframes-ipad.jpg)
-![wireframes for smartphone](assets/images/readme-images/wireframes-smartphone.jpg)
-</details>
-
 Night Owl is a site that informs pregnant mothers about a free service available to them. The site will be targeted toward pregnant mothers with other children at home, who need a babysitter for their other children when they go to the hospital to give birth. Night owl will be useful for mothers to find out about the service, and to sign up.
 
 ![Responsive mock-up landing page](assets/images/readme-images/devices-mockup-aboutus.jpg)
 
-![Responsive mock up Our Process page](assets/images/readme-images/devices-mockup-ourprocess.png)
+![Responsive mock up Our Process page](assets/images/readme-images/devices-mockup-ourprocess.jpg)
 
-![Responsive mock up Sign Up Page](assets/images/readme-images/devices-mockup-signup.png)
+![Responsive mock up Sign Up Page](assets/images/readme-images/devices-mockup-signup.jpg)
 
+<details open>
+<summary><h2>Wireframes<h2/></summary>
+<br>
+<a alt="wireframes for desktop" href="assets/images/readme-images/wireframes-desktop.jpg">
+<a alt="wireframes for ipad" href="assets/images/readme-images/wireframes-ipad.jpg">
+<a alt="wireframes for smartphone" href="assets/images/readme-images/wireframes-smartphone.jpg">
+</details>
 ## Features
 
 ### About Us
@@ -106,7 +105,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 1. In the GitHub repository, navigate to the Settings tab
 2. From the source section drop-down menu, select the Master Branch
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-4. The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+4. The live link can be found here - https://rochilaz123.github.io/Peronal-Project1/
 
 ## Credits
 
