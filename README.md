@@ -61,6 +61,8 @@ Night Owl is a site that informs pregnant mothers about a free service available
 - I confirmed that this project is responsive, looks good, and functions on all standars screen sizes using the devtools device toolbar.
 - I confirmed that the Header, nav bar, About Us, Our Process, Sign Up, Form Confirmation and footer text are all readable and easy to understand.
 - I confirmed that the form works; every field is required, it will only acccept an email in the email field and the submit button works.
+- The landing page of my project responds to different screen sizes by displaying the image above the text on smalller screens, and alongside the text on larger screens.
+- The footer displays the contact information accross one line on larger screens, and two lines on smaller screens.
 
 ### Bugs
 
@@ -70,11 +72,6 @@ Night Owl is a site that informs pregnant mothers about a free service available
 - I discovered that this was because I used absolute file paths such as this in my code.
    src="/assets/images/pexels-selin-hacıkerimoğlu-18099553.jpg"
 - removing the starting / solved the problem.
-
-
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
 
 ## Validator Testing
 
@@ -88,7 +85,8 @@ In addition, you should mention in this section how your project looks and works
 ### Accesibility
 
 - I confirmed that the fonts and colors chosen for the text are easy to read and accessible by running my code through the lighthouse in Devtools.
-![image of ]
+
+![image of accesibility score](assets/images/readme-images/accesibility-score.JPG)
 
 ## Deployment
 
@@ -100,18 +98,12 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ## Credits
 
-- the 
+### Content
 
-One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
+- The code for the social media links was taken from [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/blob/main/08-responsive-elements/05-responsive-gallery/index.html).
 
-Make sure to keep the messages in the imperative mood
-When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
+### Media
 
-For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
+- The image on the landing page was taken from [Pexels](https://www.pexels.com/photo/newborn-asleep-in-a-wooden-basket-18099549/).
 
-Writing Your Best Code
-HTML & CSS Coding Best Practices
-Google HTML/CSS Style Guide
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
 
